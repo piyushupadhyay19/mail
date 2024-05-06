@@ -30,9 +30,3 @@ This is a single-page email client application built using JavaScript and Python
 This project is live at [herokuapp](https://mail50-0fcd5232b46d.herokuapp.com/)
 
 
-
-## Contributing
-Contributions are welcome! Please fork the repository and submit a pull request with your enhancements.
-
-## License
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
