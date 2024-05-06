@@ -1,0 +1,1 @@
+web gunicorn mail50.wsgi:application --log-file -
